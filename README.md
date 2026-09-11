@@ -136,49 +136,28 @@ Commercial Responsible AI platforms typically combine some combination of **AI i
 
 
 
-| Platform                                                                  | Company         | Primary Focus                 | Key Capabilities                                                                      |
-
-| ------------------------------------------------------------------------- | --------------- | ----------------------------- | ------------------------------------------------------------------------------------- |
-
-| [Credo AI](https://www.credo.ai/)                                         | Credo AI        | AI Governance                 | AI inventory, risk assessment, policy packs, regulatory mapping, governance workflows |
-
-| [Holistic AI](https://www.holisticai.com/)                                | Holistic AI     | Responsible AI Governance     | AI auditing, bias, risk, compliance, monitoring and AI safety                         |
-
-| [FairNow / Optro](https://fairnow.ai/)                                    | FairNow / Optro | AI Governance                 | AI inventory, model risk, regulatory compliance and governance                        |
-
-| [Monitaur](https://www.monitaur.ai/)                                      | Monitaur        | AI Governance & Model Risk    | Model governance, risk, controls, validation, monitoring and audit evidence           |
-
-| [Truera](https://www.truera.com/)                                         | TruEra          | AI Quality & Explainability   | Explainability, model quality, monitoring and AI evaluation                           |
-
-| [Fiddler AI](https://www.fiddler.ai/)                                     | Fiddler AI      | AI Observability & Governance | Explainability, monitoring, fairness, LLM observability, governance and security      |
-
-| [SAS Responsible AI](https://www.sas.com/)                                | SAS             | Enterprise AI Governance      | Model risk, fairness, explainability, monitoring and governance                       |
-
-| [IBM watsonx.governance](https://www.ibm.com/products/watsonx-governance) | IBM             | Enterprise AI Governance      | AI inventory, governance, risk, compliance, evaluation and lifecycle controls         |
-
-| [Microsoft Responsible AI](https://www.microsoft.com/)                    | Microsoft       | Responsible AI Tooling        | Fairness, interpretability, error analysis and model assessment                       |
-
-| [DataRobot AI Governance](https://www.datarobot.com/)                     | DataRobot       | AI Governance                 | AI inventory, model governance, monitoring, compliance and risk management            |
-
-| [OneTrust AI Governance](https://www.onetrust.com/)                       | OneTrust        | AI Governance + GRC           | AI discovery, risk, policy, compliance and privacy                                    |
-
-| [Arthur AI](https://www.arthur.ai/)                                       | Arthur          | AI Observability & Governance | Model monitoring, explainability, LLM evaluation and governance                       |
-
-| [ModelOp](https://www.modelop.com/)                                       | ModelOp         | Model Governance              | AI inventory, lifecycle management, policy and risk                                   |
-
-| [Aporia](https://www.aporia.com/)                                         | Aporia          | ML Observability              | Monitoring, explainability, drift, bias and model performance                         |
-
-| [WhyLabs](https://whylabs.ai/)                                            | WhyLabs         | AI Observability              | Data quality, model monitoring, LLM monitoring and anomaly detection                  |
-
-| [Arize AI](https://arize.com/)                                            | Arize           | AI Observability              | ML monitoring, LLM evaluation, tracing and model quality                              |
-
-| [Dataiku Govern](https://www.dataiku.com/)                                | Dataiku         | AI Lifecycle Governance       | Model inventory, approvals, risk and deployment governance                            |
-
-| [Databricks AI Governance](https://www.databricks.com/)                   | Databricks      | AI/Data Governance            | Model governance, lineage, permissions, evaluation and monitoring                     |
-
-| [Saidot](https://www.saidot.ai/)                                          | Saidot          | AI Governance                 | AI inventory, risk, regulatory compliance and governance workflows                    |
-
-| [Credo AI Lens](https://www.credo.ai/)                                    | Credo AI        | AI Assessment                 | Responsible AI assessment and evaluation tooling                                      |
+| Platform | Company | Primary Focus | Key Capabilities | Pricing | Free Tier Limits |
+| --- | --- | --- | --- | --- | --- |
+| [Credo AI](https://www.credo.ai/) | Credo AI | AI Governance | AI inventory, risk assessment, policy packs, regulatory mapping, governance workflows | Starts at ~$30,000/year (Enterprise subscription based on use case volume) | No free tier or public self-serve trial; live product demos available upon request |
+| [Holistic AI](https://www.holisticai.com/) | Holistic AI | Responsible AI Governance | AI auditing, bias, risk, compliance, monitoring and AI safety | Custom enterprise contract / Azure Marketplace private offer | No free tier or self-serve trial; access to free public AI Regulation Tracker hub and sales demo |
+| [FairNow / Optro](https://fairnow.ai/) | FairNow / Optro | AI Governance | AI inventory, model risk, regulatory compliance and governance | Enterprise contract (Acquired by Optro; estimated starting at ~$40,000/year) | No free tier or public free trial; scheduled product demos upon request |
+| [Monitaur](https://www.monitaur.ai/) | Monitaur | AI Governance & Model Risk | Model governance, risk, controls, validation, monitoring and audit evidence | Custom enterprise subscription (quote-based per model/module) | No free tier or self-serve trial; guided demo available upon request |
+| [Truera](https://www.truera.com/) | TruEra / Snowflake | AI Quality & Explainability | Explainability, model quality, monitoring and AI evaluation | Acquired by Snowflake (incorporated into Snowflake AI Data Cloud pricing / usage credits) | Standalone SaaS retired; TruLens OSS framework is 100% free with unlimited local evaluations |
+| [Fiddler AI](https://www.fiddler.ai/) | Fiddler AI | AI Observability & Governance | Explainability, monitoring, fairness, LLM observability, governance and security | Developer plan starts at $0.002/trace (Enterprise custom quote) | Free plan includes Centor model real-time guardrails with <80ms latency (hallucination, toxicity, PII/PHI, prompt injection checks) |
+| [SAS Responsible AI](https://www.sas.com/) | SAS | Enterprise AI Governance | Model risk, fairness, explainability, monitoring and governance | SAS Viya subscription starts at ~$8,000–$10,000/year (varies by compute/user tier) | 14-day free trial of SAS Viya platform with full analytics and model deployment access |
+| [IBM watsonx.governance](https://www.ibm.com/products/watsonx-governance) | IBM | Enterprise AI Governance | AI inventory, governance, risk, compliance, evaluation and lifecycle controls | Essentials starts at $0.60–$0.64/Resource Unit (R&C plans start at $3,500/month) | Lite plan free tier: max 200 Resource Units/month, 3 use cases, 1 inventory, 1,000 records/eval, 100 MB internal DB |
+| [Microsoft Responsible AI](https://www.microsoft.com/) | Microsoft | Responsible AI Tooling | Fairness, interpretability, error analysis and model assessment | Content Safety pay-as-you-go ($0.75/1K text records); Azure ML compute pay-per-second | F0 Free Tier: 5,000 text records + 5,000 image analyses/month (Azure Free Account: $200 credit for 30 days) |
+| [DataRobot AI Governance](https://www.datarobot.com/) | DataRobot | AI Governance | AI inventory, model governance, monitoring, compliance and risk management | Enterprise annual subscription (estimated starting at ~$65,000/year via AWS Marketplace/direct) | 30-day free trial of SaaS platform with core GenAI playground, RAG templates, and modeling workers |
+| [OneTrust AI Governance](https://www.onetrust.com/) | OneTrust | AI Governance + GRC | AI discovery, risk, policy, compliance and privacy | Standalone AI Governance module starts at ~$50,000/year (Platform minimum ~$10,000/year) | No free tier or self-service trial; sales-assisted live sandbox and demo upon request |
+| [Arthur AI](https://www.arthur.ai/) | Arthur | AI Observability & Governance | Model monitoring, explainability, LLM evaluation and governance | Premium plan starts at $60/month (Enterprise custom quote) | Free tier ($0/month forever): up to 4 use cases, unlimited seats, core performance monitoring metrics |
+| [ModelOp](https://www.modelop.com/) | ModelOp | Model Governance | AI inventory, lifecycle management, policy and risk | Enterprise subscription based on model inventory volume | No free tier or public trial; custom enterprise proof-of-concept/demo available upon request |
+| [Aporia](https://www.aporia.com/) | Aporia | ML Observability | Monitoring, explainability, drift, bias and model performance | Custom usage-based pricing per model/predictions (now part of Coralogix) | Community Free plan: free monitoring for small-scale projects (up to ~10,000 predictions/month); 14-day free trial |
+| [WhyLabs](https://whylabs.ai/) | WhyLabs | AI Observability | Data quality, model monitoring, LLM monitoring and anomaly detection | Hosted SaaS discontinued in 2025; open-sourced under Apache 2.0 (Formerly Expert plan started at $125/month) | 100% free & open source under Apache 2.0 (Self-hosted whylabs, whylogs, and langkit with no usage limits) |
+| [Arize AI](https://arize.com/) | Arize | AI Observability | ML monitoring, LLM evaluation, tracing and model quality | AX Pro plan starts at $50/month ($10 per 1M additional spans, $3/GB) | AX Free tier: 25,000 trace spans/month, 1 GB ingestion/month, 15-day retention, unlimited users |
+| [Dataiku Govern](https://www.dataiku.com/) | Dataiku | AI Lifecycle Governance | Model inventory, approvals, risk and deployment governance | Enterprise quote-based subscription | 14-day free trial of Dataiku Cloud; free self-installed Community/Discover edition for local desktop exploration |
+| [Databricks AI Governance](https://www.databricks.com/) | Databricks | AI/Data Governance | Model governance, lineage, permissions, evaluation and monitoring | Standard Unity Catalog included; compute charged via DBUs starting at ~$0.07–$0.40/DBU | 14-day free trial with complimentary DBU credits across cloud providers; perpetual Databricks Free Edition for learning |
+| [Saidot](https://www.saidot.ai/) | Saidot | AI Governance | AI inventory, risk, regulatory compliance and governance workflows | Library & SME plans start at ~$1,638/month (Enterprise plans start at ~$3,627/month) | Free trial / guided pilot available upon request; live product demo via saidot.ai |
+| [Credo AI Lens](https://www.credo.ai/) | Credo AI | AI Assessment | Responsible AI assessment and evaluation tooling | 100% free (Open-source Python framework, archived on GitHub in July 2024) | Open-source framework under Apache 2.0: completely free with unlimited local execution |
 
 
 
